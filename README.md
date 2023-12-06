@@ -8,3 +8,23 @@ Career Stages
 2.	Since 1995, he has been working in North America, specializing in antenna design for automotive applications. He developed keyless entry antennas with a range of over 100 meters for Chrysler and GM. The antennas were implemented into mass production. During this time, he also developed a microstrip antenna for satellite radio applications and printed-on-glass car antennas for AM and FM radio applications. All antennas are protected by more than 10 patents, as well as by 7 articles in scientific and technical journals such as Microwave Letters and IEEE Antennas and Propagation. During his tenure, two books were prepared and published: 'Automotive Antenna Design and Applications' and 'Antenna Arrays and Automotive Applications'.
 3.	In his retirement, Victor Rabinovich has been teaching children mathematics and the basics of Python programming. He created a website for children's programming education, pythonkidsgo.ca, which features over 60 practical Python projects using the Pygame library, as well as projects in Scratch. He has published books for children: "School Math Problems with Real-Life Applications," 2015, and "Python Lessons for Kids: Animation Projects with Turtle Graphics," 2021. Additionally, he manages a Facebook page titled "I like Scratch and Python coding."
 
+Scientifical and technical papers, published in open sources:
+The sources cited below can be found at the following address: 
+https://github.com/victenna/Papers-text
+1.	Statistical evaluation of some parameters of antenna arrays with electronic beam control, Journal of Radio Engineering and Electronics,1971,12, pp.2188-2192 (in Russian version).
+2.	Radiation pattern of an antenna array with a given number of faulty elements, Journal of Radio Engineering and Electronics,1973, 4, pp.713-716 (in Russian version). 
+3.	Statistical parameters of the antenna array’s radiation pattern in the presence of phase errors caused by the discretization of phase shifters, Journal of Radio Engineering and Electronics,1975, 4, pp.708-714 (in Russian version).  
+4.	Reconstruction of the amplitude and phase distribution of the field in the antenna array aperture using the modulation method, Journal of Radio Engineering and Electronics,1976, 3, pp.616-620 (in Russian version).
+5.	Simplified algorithms of radiation pattern design for digital antenna array, Telecommunications and Radio Engineering, 1991, pp.63-66 (in Russian version)
+6.	Digital antenna array with non-identical parameters of receiving elements, Аntenna-waveguide technology and radio wave propagation,1990,7, pp.63-66 (Russian version)
+7.	Evaluation of the array field distribution based on the spectral characteristics of the elements, Antennas magazine,1990, 3, 23-28 (Russian version) 
+8.	Small printed meander symmetrical and asymmetrical antenna performances, including the RF cable effect, in the 315 MHz frequency band, Microwave and optical technology letters, 2006, 9, pp. 1828-1833.
+9.	Compact Planar Antennas for Short-Range Wireless Automotive Communication, IEEE Transactions on vehicular technology, 2006, 4, pp. 1425-1435. 
+10.	An active receiving antenna for short-range wireless automotive communication, Microwave and optical technology letters, 2004, 4, pp. 293-297.
+11.	A signal and noise-measurement procedure for an antenna/RF receiver combination I short-range automotive communication system, 2005, 2, pp.116-119.
+12.	L-band active receiving antenna for automotive applications, Microwave and optical technology letters, 2003, 4, pp. 319-323.
+13.	Direction finding system for automotive applications using small phased antenna array, Microwave and optical technology letters, 2011, 10, pp. 2441-2446
+14.	Compact Diversity Antenna System for Remote Control Automotive Applications, IEEE Transactions on vehicular technology, 2005, 5, pp. 379-382. 
+15.	Three port multifunction printed antenna system for automotive application, 2010, Antennas propagation society international symposium IEEE.
+
+
