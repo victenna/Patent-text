@@ -27,4 +27,20 @@ https://github.com/victenna/Papers-text
 14.	Compact Diversity Antenna System for Remote Control Automotive Applications, IEEE Transactions on vehicular technology, 2005, 5, pp. 379-382. 
 15.	Three port multifunction printed antenna system for automotive application, 2010, Antennas propagation society international symposium IEEE.
 
+Patents, published in open sources:
+The sources cited below can be found at the following address:
+https://github.com/victenna/Patent-text
+1.	Device for measuring the amplitude-phase distribution of the field of a phased antenna array, patent #SU1552132A1 (Russian,1989) 
+2.	Method for measuring the parameters of a phased antenna array, patent # SU1515125A1 (Russian,1987)
+3.	Device for measuring the parameters of a phased antenna array, patent # SU1318941A1(Russian,1985)
+4.	Symmetrical printed meander dipole antenna, CA2699166C, publication date 2013-03-12.
+5.	Antenna system for remote control automotive application, CA2692360, publication date 2103-05-14
+6.	Antenna and splitter for receiving radio and remote keyless entry signals, US08274440B2, publication date 2012-09-25
+7.	GPS, GSM and wireless LAN antenna for vehicle applications, US12/435.750, publication date 2012-01-17
+8.	Antenna system for remote control automotive application, US20060170610A1, publication date 2006-08-03
+9.	System and method for activating electromechanically systems using flexible intelligent radio frequency modules, CA2727846C, publication date 2009-06-05
+10.	System and method for activating electromechanically systems using flexible intelligent radio frequency modules, EP2300272B1, publication date 2023-01-04
+11.	LIN bus remote control system, US 8,334,758 B2, publication date 2012-18-12
+
+
 
